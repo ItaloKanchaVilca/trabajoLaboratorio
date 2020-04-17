@@ -33,6 +33,32 @@ using namespace std;
 }
 */
 
+//ejercicio 2.17
+/*
+int main()
+{
+	char a[] = "v x y z";
+	char b = 'v';
+	char c = 'x';
+	char d = 'y';
+	char e = 'z';
+
+	//utilizando una insteruccion con un operador de insercion de flujos 
+	cout << a<< endl;
+
+	//utilizando una insteruccion con cuatro operadores de insercion de flujos 
+	cout << b << "\t" << c << "\t" << d << "\t" << e << endl;
+
+	//utilizando cuatro instrucciones
+	cout << b;
+	cout << c;
+	cout << d;
+	cout << e;
+
+
+	return 0;
+}
+*/
 
 //ejercicio 2.18
 /*
@@ -93,7 +119,6 @@ int main()
 	return 0;
 }
 */
-
 
 //ejercicio 2.19
 /*
